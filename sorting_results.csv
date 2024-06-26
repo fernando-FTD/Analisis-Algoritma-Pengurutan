@@ -1,0 +1,16 @@
+Size,Type,BubbleSort,InsertionSort,SelectionSort,MergeSort,QuickSort
+10,Random,0,0,0,0,0
+10,Reverse,0,0,0,0,0
+10,Sorted,0,0,0,0,0
+100,Random,0,0,0,0,0
+100,Reverse,0,0,0,0,0
+100,Sorted,0,0,0,0,0
+500,Random,0,0,0,0,4021
+500,Reverse,0,0,0,0,0
+500,Sorted,0,0,0,5030,0
+1000,Random,3025,0,0,0,0
+1000,Reverse,8101,0,7999,0,0
+1000,Sorted,0,0,7990,0,0
+10000,Random,506491,186194,249297,0,0
+10000,Reverse,641302,432162,288114,8239,261036
+10000,Sorted,266865,0,227150,8005,352066
